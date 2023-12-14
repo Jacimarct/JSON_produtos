@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nome": "Notebook",
+      "marca": "Dell",
+      "categoria": "Eletrônicos",
+      "preco": 2500.00,
+      "quantidadeEstoque": 10,
+      "prontaEntrega": true
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone",
+      "marca": "Samsung",
+      "categoria": "Telefonia",
+      "preco": 1200.00,
+      "quantidadeEstoque": 15,
+      "prontaEntrega": false
+    },
+    {
+      "id": 3,
+      "nome": "Cadeira Gamer",
+      "marca": "DXRacer",
+      "categoria": "Móveis",
+      "preco": 800.00,
+      "quantidadeEstoque": 5,
+      "prontaEntrega": true
+    }
+  ]
+  
